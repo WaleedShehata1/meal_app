@@ -23,11 +23,6 @@ class _MyAppState extends State<MyApp> {
     'gluten': false,
     'lactose': false,
     'vegen': false,
-
-
-
-
-
     'vegetarian': false,
   };
   List<Meal> _availableMeals = DUMMY_MEALS;
