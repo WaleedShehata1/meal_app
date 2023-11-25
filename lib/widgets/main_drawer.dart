@@ -25,7 +25,7 @@ class MainDrawer extends StatelessWidget {
           Container(
             height: 120,
             width: double.infinity,
-            color: Theme.of(context).accentColor,
+            color: Colors.amber,
             padding: EdgeInsets.all(20),
             alignment: Alignment.centerLeft,
             child: Text(

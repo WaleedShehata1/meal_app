@@ -67,7 +67,7 @@ class _MealDetailScreenState extends State<MealDetailScreen> {
             buildSelectionIngredient(
               child: ListView.builder(
                 itemBuilder: (context, index) => Card(
-                  color: Theme.of(context).accentColor,
+                  color: Colors.amber,
                   child: Padding(
                     padding: const EdgeInsets.symmetric(
                       horizontal: 10,
